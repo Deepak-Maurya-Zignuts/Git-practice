@@ -6,3 +6,4 @@ Learning git rebase and merge
 
 just checking
 
+mail check
